@@ -1,6 +1,6 @@
 # NextJS - Tài nguyên khóa học hướng dẫn đầy đủ
 
-Kho lưu trữ này chứa các tài nguyên khóa học (ảnh chụp nhanh mã, tệp đính kèm, trang trình bày) cho [khóa học"NextJS - Hướng dẫn đầy đủ"](https://acad.link/nextjs) của tôi.
+Kho lưu trữ này chứa các tài nguyên khóa học (ảnh chụp nhanh mã, tệp đính kèm, trang trình bày) cho [khóa học"NextJS - Hướng dẫn đầy đủ"]([https://acad.link/nextjs](https://account.thanhtanuit.com/course/Detail/8)) của tôi.
 
 ## Cách sử dụng
 
@@ -10,4 +10,4 @@ Kho lưu trữ này chứa các tài nguyên khóa học (ảnh chụp nhanh mã
 
 Hiện tại tôi đang cập nhật khóa học. Kho lưu trữ này chứa các tài nguyên cho nội dung mới (ví dụ: đối với phần "Những điều cơ bản về NextJS" mới sử dụng "Bộ định tuyến ứng dụng" của NextJS).
 
-Bạn tìm thấy tài nguyên cho "khóa học cũ" (bao gồm "Bộ định tuyến trang") [tại đây](https://github.com/mschwarzmueller/nextjs-course-code).
+Bạn tìm thấy tài nguyên cho "khóa học cũ" (bao gồm "Bộ định tuyến trang") [tại đây](https://github.com/thanhtanuit/nextjs-complete-guide-course-resources).
